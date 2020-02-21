@@ -1,4 +1,4 @@
-# ksprofielcom
+# static-test-site
 
 > My splendiferous Nuxt.js project
 
